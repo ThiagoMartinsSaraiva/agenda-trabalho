@@ -1,0 +1,11 @@
+D:\faculdade\estrutura-de-dados\agenda-trabalho\bin\Debug\netcoreapp3.1\agenda-trabalho.exe
+D:\faculdade\estrutura-de-dados\agenda-trabalho\bin\Debug\netcoreapp3.1\agenda-trabalho.deps.json
+D:\faculdade\estrutura-de-dados\agenda-trabalho\bin\Debug\netcoreapp3.1\agenda-trabalho.runtimeconfig.json
+D:\faculdade\estrutura-de-dados\agenda-trabalho\bin\Debug\netcoreapp3.1\agenda-trabalho.runtimeconfig.dev.json
+D:\faculdade\estrutura-de-dados\agenda-trabalho\bin\Debug\netcoreapp3.1\agenda-trabalho.dll
+D:\faculdade\estrutura-de-dados\agenda-trabalho\bin\Debug\netcoreapp3.1\agenda-trabalho.pdb
+D:\faculdade\estrutura-de-dados\agenda-trabalho\obj\Debug\netcoreapp3.1\agenda-trabalho.csprojAssemblyReference.cache
+D:\faculdade\estrutura-de-dados\agenda-trabalho\obj\Debug\netcoreapp3.1\agenda-trabalho.AssemblyInfoInputs.cache
+D:\faculdade\estrutura-de-dados\agenda-trabalho\obj\Debug\netcoreapp3.1\agenda-trabalho.AssemblyInfo.cs
+D:\faculdade\estrutura-de-dados\agenda-trabalho\obj\Debug\netcoreapp3.1\agenda-trabalho.dll
+D:\faculdade\estrutura-de-dados\agenda-trabalho\obj\Debug\netcoreapp3.1\agenda-trabalho.pdb
